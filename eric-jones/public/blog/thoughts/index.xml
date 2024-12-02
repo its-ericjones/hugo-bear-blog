@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Building My Life in the Margins</title>
+    <link>http://localhost:1313/blog/thoughts/</link>
+    <description>Recent content in Thoughts on Building My Life in the Margins</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Eric Jones.</copyright>
+    <lastBuildDate>Sun, 08 Oct 2023 08:01:08 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Black Hole of Distractions and Configurations</title>
+      <link>http://localhost:1313/the-black-hole-of-distractions-and-configurations/</link>
+      <pubDate>Sun, 08 Oct 2023 08:01:08 -0800</pubDate>
+      <guid>http://localhost:1313/the-black-hole-of-distractions-and-configurations/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I tend to find that if I’m presented with the opportunity to tinker and configure settings rather than just getting down to work, I can easily spend hours doing that and at the end of the day be annoyed that I didn’t actually doing anything productive. I’m now at that point in my “computing life” where I value a workspace that simply works and allows me to get to what actually matters rather than fiddling around endlessly trying to find that “perfect setup”.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Airpods Pro 2 First Impressions</title>
+      <link>http://localhost:1313/airpods-pro-2-first-impressions/</link>
+      <pubDate>Sun, 23 Apr 2023 07:55:20 -0800</pubDate>
+      <guid>http://localhost:1313/airpods-pro-2-first-impressions/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;I’ve lived with the struggle of being overly sensitive to loud noises pretty much my entire life. Recently, I decided to pick up a pair of 2nd generation AirPod Pros. I was hesitant when placing the order, wondering if these were going to be worth the money, but let me tell you… these headphones are one of the best purchases that I’ve made in a long time.&lt;/p&gt;&#xA;&lt;p&gt;I can now walk to work on a busy weekend day and not have to have the anxiety of being overwhelmed with loud ambient noise. A quick press of the stem on the AirPods and the outside world fades out, allowing me to only focus on whatever music or podcast is playing. Surprisingly often, I just walk around with active noise cancellation enabled without any audio playing because having that silence is so wonderful.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
